@@ -19,7 +19,10 @@ I'm a Software Development Engineer 👨🏻‍💻 at Amazon (Amazon Developmen
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=humanzz&show_icons=true" alt="humanzz" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=humanzz&show_icons=true" alt="humanzz stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humanzz&layout=compact" alt="humanzz top langs" /></p>
+
 
 
 <p align="center">
